@@ -1,4 +1,4 @@
-Project Title – Crypto Currency Growth Analysis Using POWER BI
+Project Title – Crypto Currency Growth Analysis Using POWER BI
 
 PROBLEM  STATEMENT
   - This project aims to analyze the growth of cryptocurrencies over the past nine years using Power BI. It involves examining historical price trends, market capitalization, trading volumes, and conducting comparative and correlation analyses among major cryptocurrencies like Bitcoin, Ethereum, and Litecoin. Additionally, sentiment analysis of news articles and social media discussions will be incorporated to gauge market sentiment's impact. 
